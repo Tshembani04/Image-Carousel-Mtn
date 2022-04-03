@@ -1,5 +1,8 @@
 # ImageCarouselMtn
 
+![Screenshot](https://user-images.githubusercontent.com/43039787/161425745-8bead2b5-50dd-496d-8fe2-3ca9095f6b47.PNG)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
 ## Development server
