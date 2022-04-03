@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_DEVICES</title>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00---Carousel-Frame-02" transform="translate(-564.000000, -948.000000)">
+            <g id="Mobile-Internet" transform="translate(532.000000, 948.000000)">
+                <g id="ic_DEVICES" transform="translate(32.000000, 0.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="72" height="72"></rect>
+                    <path d="M50,4.54747351e-13 C53.3137085,4.54747351e-13 56,2.6862915 56,6 L56,66 C56,69.3137085 53.3137085,72 50,72 L22,72 C18.6862915,72 16,69.3137085 16,66 L16,6 C16,2.6862915 18.6862915,4.54747351e-13 22,4.54747351e-13 L50,4.54747351e-13 Z M50,2 L22,2 C19.8578046,2 18.1089211,3.68396847 18.0048953,5.80035966 L18,6 L18,66 C18,68.1421954 19.6839685,69.8910789 21.8003597,69.9951047 L22,70 L50,70 C52.1421954,70 53.8910789,68.3160315 53.9951047,66.1996403 L54,66 L54,6 C54,3.85780461 52.3160315,2.10892112 50.1996403,2.00489531 L50,2 Z" id="Rectangle" fill="#202020" fill-rule="nonzero"></path>
+                    <path d="M37,66 C37.5522847,66 38,66.4477153 38,67 C38,67.5522847 37.5522847,68 37,68 L35,68 C34.4477153,68 34,67.5522847 34,67 C34,66.4477153 34.4477153,66 35,66 L37,66 Z" id="Rectangle" fill="#202020" fill-rule="nonzero"></path>
+                    <path d="M44,2 C44,3.1045695 43.1045695,4 42,4 L30,4 C28.8954305,4 28,3.1045695 28,2 L44,2 Z" id="Rectangle" fill="#202020" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

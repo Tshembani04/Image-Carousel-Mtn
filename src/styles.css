@@ -1,1 +1,43 @@
 /* You can add global styles to this file, and also import other style files */
+.policy-product .owl-next, .policy-product .owl-prev{
+  background: #232323 !important;
+  color: #EBEBEB !important;
+  height: 60px !important;
+  width: 60px !important;
+  border-radius: 50% !important;
+  position: absolute;
+  top: 550px;
+  
+}
+.policy-product .owl-next{
+  right: 3rem !important;
+transform: translate(-50%, -50%);
+}
+
+
+.policy-product .owl-prev{
+ left:  -5rem !important;
+transform: translate(-50%, -50%);
+
+}
+
+.policy-product .owl-next i, .policy-product .owl-prev i{
+  font-size: 24px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.policy-product .owl-next:hover , .policy-product .owl-prev:hover{
+  background: #FFC300 !important;
+  color: #EBEBEB !important;
+  height: 60px !important;
+  width: 60px !important;
+  border-radius: 50% !important;
+  position: absolute;
+  top: 550px;
+  
+
+}
