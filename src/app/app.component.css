@@ -8,11 +8,12 @@ height: 100px;
 /* Header */
 .text{
   
-  font-size: 25px;
+  font-size: 35px;
   padding: 720px;
  padding-left: 100px 20px ;
  padding-top: 150px ;
  color: black;
+  font-family: 'Work Sans', sans-serif;
 }
 
 /* Product or service */
