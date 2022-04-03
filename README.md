@@ -7,6 +7,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Before you run this project please run `npm i` to install all the node modules and dependencies 😀
 
+Visit this site https://image-carousel-mtn.vercel.app/ live preview but still needs my time to fix the mobile responsiveness.
+
 ## Development server
 
 
